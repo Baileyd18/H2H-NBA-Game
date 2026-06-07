@@ -1,8 +1,0 @@
-streamlit
-pandas
-numpy
-plotly
-openai
-requests
-Pillow
-streamlit-autorefresh
